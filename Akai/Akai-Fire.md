@@ -271,6 +271,7 @@ The browser is used in the same way no matter how you opened it:
 * **Select Knob**: Choose a new result item. If you keep the knob pressed while turning the knob you switch sounds in steps of 3.
 * **Grid left/right**: Change the browser pane (Devices, Presets, ...)
 
+<<<<<<< HEAD
 To close the browser and confirm the selection press either the select knob or the browser button. To discard the selection press **Alt+Browser**.
 
 ## Preferences Settings
@@ -336,3 +337,6 @@ These settings are specific to each project.
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
+=======
+To close the browser and confirm the selection press either the select knob or the browser button. To discard the selection press **Alt + Browser**.
+>>>>>>> parent of 0e6577b (Add missing \pagebreak to Akai Fire documentation)
